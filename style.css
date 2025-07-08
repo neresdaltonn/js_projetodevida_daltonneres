@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/share?selection.family=Libertinus+Mono');
+@import url('https://fonts.google.com/share?selection.family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700');
 
 :root {
     --cor-de-fundo: #1E1E1E;
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Libertinus Mono', sans-serif;
+    font-family: 'Courier Prime', sans-serif;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .botao {
-    font-family: 'Libertinus Mono', sans-serif;
+    font-family: 'Courier Prime', sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
